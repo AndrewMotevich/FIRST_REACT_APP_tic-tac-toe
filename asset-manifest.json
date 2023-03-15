@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FIRST_REACT_APP_tic-tac-toe/static/css/main.0d555c50.css",
+    "main.js": "/FIRST_REACT_APP_tic-tac-toe/static/js/main.0384bd58.js",
+    "static/js/787.393238a3.chunk.js": "/FIRST_REACT_APP_tic-tac-toe/static/js/787.393238a3.chunk.js",
+    "index.html": "/FIRST_REACT_APP_tic-tac-toe/index.html",
+    "main.0d555c50.css.map": "/FIRST_REACT_APP_tic-tac-toe/static/css/main.0d555c50.css.map",
+    "main.0384bd58.js.map": "/FIRST_REACT_APP_tic-tac-toe/static/js/main.0384bd58.js.map",
+    "787.393238a3.chunk.js.map": "/FIRST_REACT_APP_tic-tac-toe/static/js/787.393238a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d555c50.css",
+    "static/js/main.0384bd58.js"
+  ]
+}
